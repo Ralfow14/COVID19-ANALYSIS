@@ -1,13 +1,13 @@
  COVID-19ANALYSIS
 
-I was presentred with a data analytics project by PLP software engineering program where we were presented with a COVID19 dataset to clean,sort and analyze where we were to test our understanding of Python in carrying out data analytics.
+I was presented with a data analytics project by PLP software engineering program where we were presented with a COVID19 dataset to clean,sort and analyze where we were to test our understanding of Python in carrying out data analytics.
 
 Technologies used were 
 - Matplotlib
 - pandas
 - Python 
 - seaborn
-- Github for hosting the project.
+- Github.
 
 1. Introduction
 
